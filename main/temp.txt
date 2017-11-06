@@ -1,0 +1,2 @@
+Äõ¸®:select url from owiki_space where accept='2' order by m_date desc ( 0.0003 sec)
+Äõ¸®:select count(no) from owiki_space where accept='2' and id='skefel'  ( 0.0003 sec)
